@@ -3,7 +3,7 @@ from mistralai import Mistral
 from mistralai import FunctionResultEntry
 import json
 
-mistral_api_key = "NvEjm1hksFO8OkiZqfWS4jwLTLQtnsgX"
+mistral_api_key = "..."
 client = Mistral(mistral_api_key)
 
 model = "mistral-medium"

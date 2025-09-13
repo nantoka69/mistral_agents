@@ -1,6 +1,6 @@
 from mistralai import Mistral
 
-mistral_api_key = "NvEjm1hksFO8OkiZqfWS4jwLTLQtnsgX"
+mistral_api_key = "..."
 client = Mistral(mistral_api_key)
 
 model = "mistral-medium"
